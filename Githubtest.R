@@ -4,7 +4,7 @@ rm(list = ls())
 setwd("/Users/jobtoday/Downloads/")
 
 
-# cargamos bas de datos
+
 
 SurveyIncomplete <- read.csv("/Users/jobtoday/Downloads/SurveyIncomplete.csv")
 
